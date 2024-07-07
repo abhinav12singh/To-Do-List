@@ -1,0 +1,31 @@
+.mainn{
+    background-image: url("back.jpg");
+        
+}
+
+.head{
+    font-family: Georgia;
+    font-weight: 200;
+    font-style: italic;
+    text-align:center;
+    size: 10px;
+    
+}
+.main-head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: dashed;
+}
+.des1{
+    color: red;
+}
+.edit{
+    font-weight: 200;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#emailHelp{
+    color: red;
+}
+.text-muted {
+    color: #ffffff !important;
+}
